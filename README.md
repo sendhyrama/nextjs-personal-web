@@ -1,5 +1,3 @@
-![Frame](https://user-images.githubusercontent.com/41937681/181583067-95791786-af6d-46bb-8a03-31f621a2e05a.png)
-
 ## Tech Stack
 
 - Next.js
@@ -14,7 +12,7 @@
 Clone this repository by executing the following command :
 
 ```
-git clone https://github.com/jagadyudha/jagad.dev.git
+git clone https://github.com/sendhyrama/nextjs-personal-web.git
 ```
 
 Execute this command :
@@ -57,4 +55,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 </a><br />Content on [jagad.dev](https://jagad.dev) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-Code licensed under the <a href="https://github.com/jagadyudha/jagad.dev/blob/main/LICENSE.md">MIT License</a>.
+Code licensed under the <a href="https://github.com/sendhyrama/nextjs-personal-web/blob/main/LICENSE.md">MIT License</a>.
