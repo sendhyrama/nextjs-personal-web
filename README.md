@@ -53,6 +53,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-</a><br />Content on [jagad.dev](https://jagad.dev) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<!-- </a><br />Content on [jagad.dev](https://jagad.dev) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. -->
 
 Code licensed under the <a href="https://github.com/sendhyrama/nextjs-personal-web/blob/main/LICENSE.md">MIT License</a>.
